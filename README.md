@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Hồng Sơn</h1>
 <h3 align="center">A Frontend developer from Việt Nam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hongson-it&label=Profile%20views&color=0e75b6&style=flat" alt="hongson-it" /> </p>
-
 - 🌱 I’m currently learning **ReactJs**
 
 - 📫 How to reach me **nhson.codes@gmail.com**
