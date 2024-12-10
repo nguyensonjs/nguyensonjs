@@ -55,14 +55,24 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongson-it&layout=compact" alt="hongson-it" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongson-it&layout=compact&theme=dracula" alt="hongson-it" style="width:300px; height:200px;" />
     </td>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=hongson-it&hide=contribs" alt="hongson-it" style="width:350px;" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=hongson-it&theme=dracula&hide=contribs" alt="hongson-it" style="width:300px; height:200px;" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
+    </td>
+    <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
     </td>
   </tr>
 </table>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it)](https://github.com/hongson-it/hongson-it)
 
