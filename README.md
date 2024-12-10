@@ -55,10 +55,10 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongson-it&layout=compact&theme=dracula" alt="hongson-it" style="width:300px; height:200px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongson-it&layout=compact&theme=dracula" alt="hongson-it" style="width:300px; height:200px;" />
     </td>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=hongson-it&theme=dracula&hide=contribs" alt="hongson-it" style="width:300px; height:200px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hongson-it&theme=dracula&hide=contribs" alt="hongson-it" style="width:300px; height:200px;" />
     </td>
   </tr>
 </table>
@@ -66,10 +66,10 @@
 <table>
   <tr>
     <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
     </td>
     <td>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
     </td>
   </tr>
 </table>
