@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=VnComic&theme=dracula" alt="hongson-it" style="width:300px;" />
     </td>
     <td>
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hongson-it&repo=hongson-it&theme=dracula" alt="hongson-it" style="width:300px;" />
