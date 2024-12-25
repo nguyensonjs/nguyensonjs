@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **nhson.codes@gmail.com**
 
+<img src="https://count.getloli.com/@hongson-it?name=hongson-it&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="hongson-it" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/hongsonjs/" target="blank">
