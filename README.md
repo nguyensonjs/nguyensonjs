@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nhson.codes@gmail.com**
 
-<img src="https://count.getloli.com/@hongson-it?name=hongson-it&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="hongson-it" />
+<img src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="hongson-it" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,10 +41,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongson-it&layout=compact&theme=dracula" alt="hongson-it" style="width:300px; height:200px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonjs&layout=compact&theme=dracula" alt="nguyensonjs" style="width:300px; height:200px;" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=hongson-it&theme=dracula&hide=contribs" alt="hongson-it" style="width:300px; height:200px;" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&theme=dracula&hide=contribs" alt="nguyensonjs" style="width:300px; height:200px;" />
     </td>
   </tr>
 </table>
