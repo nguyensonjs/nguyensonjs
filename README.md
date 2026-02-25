@@ -38,17 +38,5 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonjs&layout=compact&theme=dracula" alt="nguyensonjs" style="width:300px; height:200px;" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&theme=dracula&hide=contribs" alt="nguyensonjs" style="width:300px; height:200px;" />
-    </td>
-  </tr>
-</table>
-
-
 
 
