@@ -46,39 +46,35 @@
 <div>
   <p><b>⚛️ Frontend</b></p>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1F2937?style=flat-square&logo=typescript&logoColor=3178C6" />
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-1F2937?style=flat-square&logo=redux&logoColor=764ABC" />
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-1F2937?style=flat-square&logo=vite&logoColor=646CFF" />
+    <img
+      height="36"
+      alt="Frontend stack icons"
+      src="https://skillicons.dev/icons?i=js,react,expo,nextjs,ts,redux,vite&theme=dark"
+    />
   </p>
 
   <p><b>🎨 UI / Styling</b></p>
   <p>
-    <img alt="Ant Design" src="https://img.shields.io/badge/Ant%20Design-1F2937?style=flat-square&logo=ant-design&logoColor=0170FE" />
-    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-1F2937?style=flat-square&logo=tailwind-css&logoColor=38B2AC" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/Styled%20Components-1F2937?style=flat-square&logo=styled-components&logoColor=DB7093" />
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-1F2937?style=flat-square&logo=sass&logoColor=CC6699" />
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-1F2937?style=flat-square&logo=bootstrap&logoColor=7952B3" />
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6" />
+    <img
+      height="36"
+      alt="UI and styling icons"
+      src="https://skillicons.dev/icons?i=tailwind,styledcomponents,sass,bootstrap,html,css&theme=dark"
+    />
   </p>
 
   <p><b>🛠️ Tools</b></p>
   <p>
-    <img alt="Git" src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032" />
+    <img height="36" alt="Tools icons" src="https://skillicons.dev/icons?i=git,nodejs&theme=dark" />
   </p>
 
   <p><b>🧩 Backend / API</b></p>
   <p>
-    <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-1F2937?style=flat-square&logo=.net&logoColor=512BD4" />
-    <img alt="C#" src="https://img.shields.io/badge/C%23-1F2937?style=flat-square&logo=c-sharp&logoColor=239120" />
+    <img height="36" alt="Backend and API icons" src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" />
   </p>
 
   <p><b>🕹️ Other</b></p>
   <p>
-    <img alt="Godot" src="https://img.shields.io/badge/Godot-1F2937?style=flat-square&logo=godot-engine&logoColor=478CBF" />
-    <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-1F2937?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-    <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1F2937?style=flat-square&logo=vuetify&logoColor=1867C0" />
+    <img height="36" alt="Other tech icons" src="https://skillicons.dev/icons?i=godot,vue,vuetify&theme=dark" />
   </p>
 </div>
 
