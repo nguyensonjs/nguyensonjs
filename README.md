@@ -93,8 +93,6 @@
   </p>
 </div>
 
-## 📊 Stats
-
 ## 🏆 Trophy / Streak
 
 <div align="center">
@@ -110,6 +108,10 @@
     src="https://streak-stats.demolab.com?user=nguyensonjs&theme=dracula&hide_border=true"
   />
 </div>
+
+<br />
+
+## 📊 Stats
 
 <div align="center">
   <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&show_icons=true&theme=dracula&hide_border=true" />
