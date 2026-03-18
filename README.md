@@ -91,9 +91,9 @@
 
 ## 📬 Contact
 
-- **Email**: `nhson.codes@gmail.com`
-- **Telegram**: `https://t.me/Nguyensonfs`
-- **Facebook**: `https://www.facebook.com/hongsonjs/`
+- **Email**: [nhson.codes@gmail.com](mailto:nhson.codes@gmail.com)
+- **Telegram**: [t.me/Nguyensonfs](https://t.me/Nguyensonfs)
+- **Facebook**: [facebook.com/hongsonjs](https://www.facebook.com/hongsonjs/)
 
 
 
