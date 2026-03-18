@@ -56,17 +56,6 @@
   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1F2937?style=flat-square&logo=vuetify&logoColor=1867C0" />
 </div>
 
-## Pinned projects
-
-<div>
-  <a href="https://github.com/nguyensonjs/cfs-logger">
-    <img alt="cfs-logger" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyensonjs&repo=cfs-logger&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/nguyensonjs/comic-platform">
-    <img alt="comic-platform" src="https://github-readme-stats.vercel.app/api/pin/?username=nguyensonjs&repo=comic-platform&theme=transparent&hide_border=true" />
-  </a>
-</div>
-
 ## Stats
 
 <div>
