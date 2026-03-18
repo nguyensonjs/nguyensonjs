@@ -22,7 +22,7 @@
   <p>
     <img
       alt="profile-counter"
-      src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"
+      src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"
     />
   </p>
 </div>
@@ -115,7 +115,3 @@
 - **Facebook**: [facebook.com/hongsonjs](https://www.facebook.com/hongsonjs/)
 
 </details>
-
-
-
-
