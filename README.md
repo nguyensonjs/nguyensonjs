@@ -41,7 +41,15 @@
   </p>
 
   <p>
-    <img alt="daily.dev DevCard" src="assets/devcard.png" width="420" />
+    <a href="https://app.daily.dev/devcard" target="_blank" rel="noopener noreferrer">
+      <img alt="daily.dev DevCard" src="assets/devcard.png" width="360" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://daily.dev/" target="_blank" rel="noopener noreferrer">
+      <img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-282A36?style=for-the-badge&logo=daily.dev&logoColor=F8F8F2" />
+    </a>
   </p>
 
   <p>
