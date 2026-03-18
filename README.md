@@ -6,9 +6,6 @@
 </div>
 
 <div align="center">
-  <h1>Nguyễn Hồng Sơn</h1>
-  <p><b>Frontend Developer</b> · Việt Nam</p>
-
   <p>
     <img
       alt="Typing intro"
@@ -64,7 +61,7 @@
     <img
       height="36"
       alt="Frontend stack icons"
-      src="https://skillicons.dev/icons?i=js,react,expo,nextjs,ts,redux,vite&theme=dark"
+      src="https://skillicons.dev/icons?i=js,react,nextjs,ts,redux,vite&theme=dark"
     />
   </p>
 
@@ -84,7 +81,7 @@
 
   <p><b>🧩 Backend / API</b></p>
   <p>
-    <img height="36" alt="Backend and API icons" src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" />
+    <img height="36" alt="Backend and API icons" src="https://skillicons.dev/icons?i=nestjs,cs&theme=dark" />
   </p>
 
   <p><b>🕹️ Other</b></p>
