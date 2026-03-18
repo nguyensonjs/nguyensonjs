@@ -13,51 +13,9 @@
     />
   </p>
 
-  <p>
-    <a href="mailto:nhson.codes@gmail.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=F8F8F2" />
-    </a>
-    <a href="https://t.me/Nguyensonfs" target="_blank" rel="noopener noreferrer">
-      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-282A36?style=for-the-badge&logo=telegram&logoColor=F8F8F2" />
-    </a>
-    <a href="https://www.facebook.com/hongsonjs/" target="_blank" rel="noopener noreferrer">
-      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-282A36?style=for-the-badge&logo=facebook&logoColor=F8F8F2" />
-    </a>
-    <a href="https://github.com/nguyensonjs" target="_blank" rel="noopener noreferrer">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" />
-    </a>
-  </p>
-
-  <p>
-    <img alt="React" src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-    <img alt="Vite" src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=646CFF" />
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
-  </p>
-
-  <table>
-    <tr>
-      <td align="center" valign="top">
-        <a href="https://app.daily.dev/devcard" target="_blank" rel="noopener noreferrer">
-          <img alt="daily.dev DevCard" src="assets/devcard.png" width="360" />
-        </a>
-        <br />
-        <a href="https://daily.dev/" target="_blank" rel="noopener noreferrer">
-          <img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-282A36?style=for-the-badge&logo=daily.dev&logoColor=F8F8F2" />
-        </a>
-      </td>
-      <td align="center" valign="top">
-        <p>
-          <img alt="Location" src="https://img.shields.io/badge/H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam-111827?style=for-the-badge" />
-          <img alt="Open to collaborate" src="https://img.shields.io/badge/Open%20to%20collaborate-111827?style=for-the-badge" />
-        </p>
-        <img
-          alt="profile-counter"
-          src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"
-        />
-      </td>
-    </tr>
-  </table>
+  | Social | Highlights |
+  | --- | --- |
+  | <a href="mailto:nhson.codes@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=F8F8F2" /></a> <a href="https://t.me/Nguyensonfs" target="_blank" rel="noopener noreferrer"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-282A36?style=for-the-badge&logo=telegram&logoColor=F8F8F2" /></a> <a href="https://www.facebook.com/hongsonjs/" target="_blank" rel="noopener noreferrer"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-282A36?style=for-the-badge&logo=facebook&logoColor=F8F8F2" /></a> <a href="https://github.com/nguyensonjs" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" /></a><br /><br /><img alt="React" src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img alt="Vite" src="https://img.shields.io/badge/Vite-0B1220?style=for-the-badge&logo=vite&logoColor=646CFF" /> <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" /> | <a href="https://app.daily.dev/devcard" target="_blank" rel="noopener noreferrer"><img alt="daily.dev DevCard" src="assets/devcard.png" width="330" /></a><br /><img alt="Location" src="https://img.shields.io/badge/H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam-111827?style=for-the-badge" /> <img alt="Open to collaborate" src="https://img.shields.io/badge/Open%20to%20collaborate-111827?style=for-the-badge" /><br /><img alt="profile-counter" src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" /><br /><a href="https://daily.dev/" target="_blank" rel="noopener noreferrer"><img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-282A36?style=for-the-badge&logo=daily.dev&logoColor=F8F8F2" /></a> |
 </div>
 
 ---
