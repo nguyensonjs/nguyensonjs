@@ -100,7 +100,7 @@
 <div align="center">
   <img
     alt="Trophies"
-    src="https://github-profile-trophy.vercel.app/?username=nguyensonjs&theme=dracula&no-frame=true&no-bg=true&row=1&column=6"
+    src="https://trophy.ryglcloud.net/?username=nguyensonjs&theme=dracula&no-frame=true&no-bg=true&row=1&column=6"
   />
 </div>
 
