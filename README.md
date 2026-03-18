@@ -58,9 +58,9 @@
 
 ## Stats
 
-<div>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&show_icons=true&theme=transparent&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonjs&layout=compact&theme=transparent&hide_border=true" />
+<div align="center">
+  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&show_icons=true&theme=dracula&hide_border=true" />
+  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonjs&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
 ## Contact
