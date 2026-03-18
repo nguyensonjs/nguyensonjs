@@ -1,19 +1,34 @@
 <div align="center">
+  <img
+    alt="Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=bd93f9&section=header&text=Nguy%E1%BB%85n%20H%E1%BB%93ng%20S%C6%A1n&fontSize=44&fontColor=f8f8f2&animation=fadeIn"
+  />
+</div>
+
+<div align="center">
   <h1>Nguyễn Hồng Sơn</h1>
   <p><b>Frontend Developer</b> · Việt Nam</p>
 
   <p>
     <img
       alt="Typing intro"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=800&color=BD93F9&center=true&vCenter=true&width=520&lines=React+%2F+TypeScript+Frontend+Developer;Clean+UI%2C+Good+UX%2C+Fast+Web;Open+to+collaborate"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=BD93F9&center=true&vCenter=true&width=640&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+S%C6%A1n;Frontend+Developer+%7C+React+%2B+TypeScript;UI+%C4%91%E1%BA%B9p%2C+UX+t%E1%BB%91t%2C+web+m%C6%B0%E1%BB%A3t;Open+to+collaborate"
     />
   </p>
 
   <p>
-    <a href="mailto:nhson.codes@gmail.com">Email</a> ·
-    <a href="https://t.me/Nguyensonfs" target="_blank" rel="noopener noreferrer">Telegram</a> ·
-    <a href="https://www.facebook.com/hongsonjs/" target="_blank" rel="noopener noreferrer">Facebook</a> ·
-    <a href="https://github.com/nguyensonjs" target="_blank" rel="noopener noreferrer">GitHub</a>
+    <a href="mailto:nhson.codes@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=gmail&logoColor=F8F8F2" />
+    </a>
+    <a href="https://t.me/Nguyensonfs" target="_blank" rel="noopener noreferrer">
+      <img alt="Telegram" src="https://img.shields.io/badge/Telegram-282A36?style=for-the-badge&logo=telegram&logoColor=F8F8F2" />
+    </a>
+    <a href="https://www.facebook.com/hongsonjs/" target="_blank" rel="noopener noreferrer">
+      <img alt="Facebook" src="https://img.shields.io/badge/Facebook-282A36?style=for-the-badge&logo=facebook&logoColor=F8F8F2" />
+    </a>
+    <a href="https://github.com/nguyensonjs" target="_blank" rel="noopener noreferrer">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=F8F8F2" />
+    </a>
   </p>
 
   <p>
@@ -79,6 +94,22 @@
 </div>
 
 ## 📊 Stats
+
+## 🏆 Trophy / Streak
+
+<div align="center">
+  <img
+    alt="Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=nguyensonjs&theme=dracula&no-frame=true&no-bg=true&row=1&column=6"
+  />
+</div>
+
+<div align="center">
+  <img
+    alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=nguyensonjs&theme=dracula&hide_border=true"
+  />
+</div>
 
 <div align="center">
   <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&show_icons=true&theme=dracula&hide_border=true" />
