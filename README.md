@@ -41,6 +41,10 @@
   </p>
 
   <p>
+    <img alt="daily.dev DevCard" src="assets/devcard.png" width="420" />
+  </p>
+
+  <p>
     <img src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="profile-counter" />
   </p>
 </div>

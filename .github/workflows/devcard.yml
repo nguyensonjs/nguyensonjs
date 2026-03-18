@@ -1,0 +1,20 @@
+name: Update daily.dev DevCard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # daily
+
+permissions:
+  contents: write
+
+jobs:
+  devcard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update DevCard image
+        uses: dailydotdev/action-devcard@3.2.1
+        with:
+          user_id: ${{ secrets.DAILYDEV_USER_ID }}
+          commit_filename: assets/devcard.png
+          commit_message: "chore: update daily.dev devcard"
