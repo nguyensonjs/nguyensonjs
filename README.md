@@ -47,13 +47,17 @@
 
 ---
 
-## 👋 About
+<details open>
+  <summary><b>👋 About</b></summary>
 
 - **Mình là**: Sơn — Frontend developer, ưu tiên UI/UX “sạch”, component hoá và trải nghiệm mượt.
 - **Đang học**: **React** / **TypeScript** / best practices để code dễ scale và dễ bảo trì.
 - **Quan tâm**: design system, performance, DX, và build toolchain.
 
-## 🧰 Tech stack
+</details>
+
+<details open>
+  <summary><b>🧰 Tech stack</b></summary>
 
 <div>
   <p><b>⚛️ Frontend</b></p>
@@ -90,7 +94,10 @@
   </p>
 </div>
 
-## 🏆 Trophy / Streak
+</details>
+
+<details>
+  <summary><b>🏆 Trophy / Streak</b></summary>
 
 <div align="center">
   <img
@@ -106,21 +113,26 @@
   />
 </div>
 
-<br />
+</details>
 
-## 📊 Stats
+<details open>
+  <summary><b>📊 Stats</b></summary>
 
 <div align="center">
   <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&show_icons=true&theme=dracula&hide_border=true" />
   <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonjs&layout=compact&theme=dracula&hide_border=true" />
 </div>
 
-## 📬 Contact
+</details>
+
+<details open>
+  <summary><b>📬 Contact</b></summary>
 
 - **Email**: [nhson.codes@gmail.com](mailto:nhson.codes@gmail.com)
 - **Telegram**: [t.me/Nguyensonfs](https://t.me/Nguyensonfs)
 - **Facebook**: [facebook.com/hongsonjs](https://www.facebook.com/hongsonjs/)
 
+</details>
 
 
 
