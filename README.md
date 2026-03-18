@@ -35,26 +35,29 @@
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
   </p>
 
-  <p>
-    <img alt="Location" src="https://img.shields.io/badge/H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam-111827?style=for-the-badge" />
-    <img alt="Open to collaborate" src="https://img.shields.io/badge/Open%20to%20collaborate-111827?style=for-the-badge" />
-  </p>
-
-  <p>
-    <a href="https://app.daily.dev/devcard" target="_blank" rel="noopener noreferrer">
-      <img alt="daily.dev DevCard" src="assets/devcard.png" width="360" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://daily.dev/" target="_blank" rel="noopener noreferrer">
-      <img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-282A36?style=for-the-badge&logo=daily.dev&logoColor=F8F8F2" />
-    </a>
-  </p>
-
-  <p>
-    <img src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="profile-counter" />
-  </p>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <a href="https://app.daily.dev/devcard" target="_blank" rel="noopener noreferrer">
+          <img alt="daily.dev DevCard" src="assets/devcard.png" width="360" />
+        </a>
+        <br />
+        <a href="https://daily.dev/" target="_blank" rel="noopener noreferrer">
+          <img alt="daily.dev" src="https://img.shields.io/badge/daily.dev-282A36?style=for-the-badge&logo=daily.dev&logoColor=F8F8F2" />
+        </a>
+      </td>
+      <td align="center" valign="top">
+        <p>
+          <img alt="Location" src="https://img.shields.io/badge/H%C3%A0%20N%E1%BB%99i%2C%20Vi%E1%BB%87t%20Nam-111827?style=for-the-badge" />
+          <img alt="Open to collaborate" src="https://img.shields.io/badge/Open%20to%20collaborate-111827?style=for-the-badge" />
+        </p>
+        <img
+          alt="profile-counter"
+          src="https://count.getloli.com/@nguyensonjs?name=nguyensonjs&theme=ai-1&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
