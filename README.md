@@ -9,12 +9,12 @@
   <p>
     <img
       alt="Typing intro"
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=BD93F9&center=true&vCenter=true&width=640&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+S%C6%A1n;Frontend+Developer+%7C+React+%2B+TypeScript;UI+%C4%91%E1%BA%B9p%2C+UX+t%E1%BB%91t%2C+web+m%C6%B0%E1%BB%A3t;Open+to+collaborate"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2600&pause=900&color=BD93F9&center=true&vCenter=true&width=640&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+S%C6%A1n;Frontend+Developer+%7C+React+%2B+TypeScript;UI+%C4%91%E1%BA%B9p%2C+UX+t%E1%BB%91t%2C+web+m%C6%B0%E1%BB%A3t;+to+collaborate"
     />
   </p>
 
   <p>
-    <a href="https://app.daily.dev/devcard" target="_blank" rel="noopener noreferrer">
+    <a href="https://app.daily.dev/devcard" target="_blank" rel="noer noreferrer">
       <img alt="daily.dev DevCard" src="assets/devcard.png" width="330" />
     </a>
   </p>
@@ -29,7 +29,7 @@
 
 ---
 
-<details open>
+<details >
   <summary><b>👋 About</b></summary>
 
 - **Mình là**: Sơn — Frontend developer, ưu tiên UI/UX “sạch”, component hoá và trải nghiệm mượt.
@@ -38,7 +38,7 @@
 
 </details>
 
-<details open>
+<details >
   <summary><b>🧰 Tech stack</b></summary>
 
 <div>
@@ -78,15 +78,8 @@
 
 </details>
 
-<details>
-  <summary><b>🏆 Trophy / Streak</b></summary>
-
-<div align="center">
-  <img
-    alt="Trophies"
-    src="https://trophy.ryglcloud.net/?username=nguyensonjs&theme=dracula&no-frame=true&no-bg=true&row=1&column=6"
-  />
-</div>
+<details >
+  <summary><b>📊 Streak</b></summary>
 
 <div align="center">
   <img
@@ -97,17 +90,7 @@
 
 </details>
 
-<details open>
-  <summary><b>📊 Stats</b></summary>
-
-<div align="center">
-  <img width="49%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nguyensonjs&show_icons=true&theme=dracula&hide_border=true" />
-  <img width="49%" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyensonjs&layout=compact&theme=dracula&hide_border=true" />
-</div>
-
-</details>
-
-<details open>
+<details >
   <summary><b>📬 Contact</b></summary>
 
 - **Email**: [nhson.codes@gmail.com](mailto:nhson.codes@gmail.com)
