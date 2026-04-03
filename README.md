@@ -29,17 +29,13 @@
 
 ---
 
-<details >
-  <summary><b>👋 About</b></summary>
+## 👋 About
 
 - **Mình là**: Sơn — Frontend developer, ưu tiên UI/UX “sạch”, component hoá và trải nghiệm mượt.
 - **Đang học**: **React** / **TypeScript** / best practices để code dễ scale và dễ bảo trì.
 - **Quan tâm**: design system, performance, DX, và build toolchain.
 
-</details>
-
-<details >
-  <summary><b>🧰 Tech stack</b></summary>
+## 🧰 Tech stack
 
 <div>
   <p><b>⚛️ Frontend</b></p>
@@ -76,10 +72,7 @@
   </p>
 </div>
 
-</details>
-
-<details >
-  <summary><b>📊 Streak</b></summary>
+## 📊 Streak
 
 <div align="center">
   <img
@@ -88,13 +81,8 @@
   />
 </div>
 
-</details>
-
-<details >
-  <summary><b>📬 Contact</b></summary>
+## 📬 Contact
 
 - **Email**: [nhson.codes@gmail.com](mailto:nhson.codes@gmail.com)
 - **Telegram**: [t.me/Nguyensonfs](https://t.me/Nguyensonfs)
 - **Facebook**: [facebook.com/hongsonjs](https://www.facebook.com/hongsonjs/)
-
-</details>
